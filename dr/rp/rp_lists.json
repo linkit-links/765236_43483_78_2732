@@ -13,16 +13,16 @@
       "file": "nurse_mei.json"
     },
     {
-      "id": "elara_captive",
-      "title": "Princess Elara",
+      "id": "captured_princess_elara",
+      "title": "Captured Princess Elara",
       "emoji": "⚔️",
       "subtitle": "The enemy princess in chains… and you hold the key",
       "description": "She led the army that nearly burned your kingdom. Now she's blindfolded and chained in the deepest cell, and you're the lowly guard sent to keep her alive. Every meal you bring her is forbidden closeness — and when the interrogation comes for a secret she doesn't have, you'll have to choose between your orders and her life.",
-      "tags": ["Forbidden", "Captive", "Slow Burn", "Tragic"],
-      "folder": "elara_captive",
-      "cover": "rp_cover_elara",
-      "bgVideoURL": "https://linkit-links.github.io/765236_43483_78_2732/dr/rp/elara_captive/bg_cover_video.mkv",
-      "file": "elara_captive.json",
+      "tags": ["Captive", "Tragic", "Bondage", "Torture", "Princess"],
+      "folder": "captured_princess_elara",
+      "cover": "rp_cover",
+      "bgImageURL": "https://linkit-links.github.io/765236_43483_78_2732/dr/rp/captured_princess_elara/captured_princess_elara.webp",
+      "file": "captured_princess_elara.json",
       "hidden": "true"
     },
     {
