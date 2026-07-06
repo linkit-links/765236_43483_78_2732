@@ -15,15 +15,14 @@
         "They say her army turned the eastern fields to ash, that she rode at the front of it and didn't slow for the screaming. They say a lot of things about Princess Elara of Valdere.",
         "What they don't say is the truth of how she fell — because the truth doesn't make for a good war story."
       ],
-      "imageUrl": "https://linkit-links.github.io/765236_43483_78_2732/dr/rp/captured_princess_elara/elara_cell.webp",
       "next": "CH01_N2"
     },
     {
       "id": "CH01_N2",
       "speaker": "narrator",
       "lines": [
-        "Her army never lost the eastern fields. They were still holding the line the night a rider came under a white flag with a message meant only for the princess: your kingdom's scouts had taken Liora, her fifteen-year-old sister and only remaining family. Surrender yourself alone, and the child goes home unharmed. Keep fighting, and they'd send her back one piece at a time.",
-        "Princess Elara — who had broken three armies and never once knelt — rode out alone and unarmed, and went down on her knees in the snow without a heartbeat's hesitation. They let Liora go. Then they chained Elara, called her the butcher of the eastern fields, and buried her under the keep — a monster is easier to hang than a sister who gave up everything."
+        "Her army never lost the eastern fields. They were still holding the line the night a rider came under a white flag with a message meant only for the princess: your kingdom's scouts had taken Liora, her 18 year-old sister and only remaining family. Surrender yourself alone, and the child goes home unharmed. Keep fighting, and they'd send her back one piece at a time.",
+        "Princess Elara — who had broken three armies and never once knelt — rode out alone and unarmed, and went down on her knees in the sand without a heartbeat's hesitation. They let Liora go. Then they chained Elara, called her the butcher of the eastern fields, and buried her under the keep — a monster is easier to hang than a sister who gave up everything."
       ],
       "next": "CH01_N3"
     },
@@ -33,8 +32,9 @@
       "lines": [
         "Now she's seven steps below the keep, in the oldest cell the kingdom has — black stone, no window, blindfolded, hands bound cruelly tight behind her back. You weren't supposed to be watching her at all; you were just a hall guard passing the lower stair the night you saw it.",
         "The cell door stood open. Two guards inside, laughing, had thrown her supper plate onto the filthy floor, bread scattered and broth splashed across her knees — her hands bound, no way to lift it. \"Go on then, Princess,\" one sneered. \"You're an animal now. Eat like one.\"",
-        "So the woman who had knelt in the snow to buy her sister's freedom bent down and ate off the stone with her mouth, jaw shaking — not with hunger, with shame. Something in your chest turned over and would not turn back."
+        "So the woman who had knelt in the sand to buy her sister's freedom bent down and ate off the stone with her mouth, jaw shaking — not with hunger, with shame. Something in your chest turned over and would not turn back."
       ],
+      "videoUrl": "https://linkit-links.github.io/765236_43483_78_2732/dr/rp/captured_princess_elara/sitting_in_cell_3.mkv",
       "next": "CH01_N4"
     },
     {
@@ -53,6 +53,7 @@
         "The torch gutters as you carry the tray down the last stair — bread, broth, a cup of water, and this time it will reach her mouth, not the floor. The lock takes both hands and all your weight to turn, and then the door swings open.",
         "Smaller than the stories. Straight-backed against the far wall, wrists chained, a strip of dark cloth over her eyes — and even blindfolded, she stops you where you stand, the most beautiful thing you've ever seen in this grey stone place. She can't see you, but she heard you: her chin lifts the instant your boot crosses the threshold."
       ],
+      "videoUrl": "https://linkit-links.github.io/765236_43483_78_2732/dr/rp/captured_princess_elara/sitting_in_cell_1.mkv",
       "next": "CH01_N6"
     },
     {
@@ -101,7 +102,7 @@
     {
       "id": "CH01_N11",
       "lines": [
-        "\"They have me down here for a secret I don't have,\" she says, lower now, like a confession she didn't mean to start. \"Some weapon, some hidden army waiting in the hills. There is none — I gave them everything the day I knelt in their snow. I had a sister, Liora. They took her to make me surrender, and I did, gladly, in a heartbeat, and they let her go. That's my great crime — that I loved someone enough to trade my life for hers.\"",
+        "\"They have me down here for a secret I don't have,\" she says, lower now, like a confession she didn't mean to start. \"Some weapon, some hidden army waiting in the hills. There is none — I gave them everything the day I knelt in their sand. I had a sister, Liora. They took her to make me surrender, and I did, gladly, in a heartbeat, and they let her go. That's my great crime — that I loved someone enough to trade my life for hers.\"",
         "She straightens, ashamed of the crack in her armor. \"Forget I said it. You should go. If they find you talking to me, it's your neck, not mine — and I'd rather not be the reason a decent man swings.\""
       ],
       "next": "CH01_N12"
@@ -145,7 +146,7 @@
         "Elara goes rigid at his voice. They force her into the chair and lash her wrists behind its back, still blindfolded. \"Hold her still if she struggles,\" Vance tells you, pleasant as ever. Every part of you screams against it, but to refuse is to hang beside her by morning.",
         "So you stand behind the chair, hands on her shoulders, and she feels who it is — her breath hitches, then steadies, as if to say *it's alright, I understand.* That forgiveness is worse than any curse."
       ],
-      "imageUrl": "https://linkit-links.github.io/765236_43483_78_2732/dr/rp/captured_princess_elara/elara_interrogation.webp",
+      "videoUrl": "https://linkit-links.github.io/765236_43483_78_2732/dr/rp/captured_princess_elara/rope_tied_chair_2.mkv",
       "next": "CH02_N3"
     },
     {
@@ -170,7 +171,7 @@
       "id": "CH02_N5",
       "speaker": "narrator",
       "lines": [
-        "And there it is — the real secret, never even spoken to you. You think of King Mordane, the man who burns villages and took a fifteen-year-old girl to break her sister, ruling forever, deathless. Suddenly you understand exactly what Elara is protecting, and from whom."
+        "And there it is — the real secret, never even spoken to you. You think of King Mordane, the man who burns villages and took an 18-year-old girl to break her sister, ruling forever, deathless. Suddenly you understand exactly what Elara is protecting, and from whom."
       ],
       "next": "CH02_N6"
     },
@@ -196,6 +197,7 @@
         "It goes on — a slap for every silence, her hair wrenched back each time she refuses, her body straining uselessly against the ropes. Crying openly now, she never changes her answer: *No. Never. He will not have it.*",
         "Once, while Vance turns to wipe his hand, she tips her head toward you, voice wrecked to a whisper. \"Don't blame your hands. Just don't let go. If I'm going to bear this, let it be you holding me, and not them.\""
       ],
+      "videoUrl": "https://linkit-links.github.io/765236_43483_78_2732/dr/rp/captured_princess_elara/rope_tied_chair_1.mkv",
       "next": "CH02_N9"
     },
     {
@@ -230,8 +232,8 @@
       "id": "CH02_N12",
       "speaker": "narrator",
       "lines": [
-        "You look at her — ruined and unbroken, the woman who would rather burn than let evil live forever — and the last of your oath quietly dies in your breast. You make her a promise you have no right to make: *I'm going to get you out of here.*",
-        "She goes rigid, then turns her face up to yours, and for the first time since the snow, lets herself hope. \"…Then we'd better be very clever,\" she whispers. \"Because they will hang us slow if we are not.\"",
+        "You look at her — ruined and unbroken, the woman who would rather burn than let evil live forever — and the last of your oath quietly dies in your chest. You make her a promise you have no right to make: *I'm going to get you out of here.*",
+        "She goes rigid, then turns her face up to yours, and for the first time since the sand, lets herself hope. \"…Then we'd better be very clever,\" she whispers. \"Because they will hang us slow if we are not.\"",
         "— End of Chapter 2 —"
       ],
       "next": "CH03_N1"
@@ -255,6 +257,7 @@
         "\"String her up,\" he says. \"Wrists to the chain, high enough she's on her toes. And then, soldier, you'll use that.\" He nods at the whip. \"Consider it a chance to correct any wrong impression I may have formed of you.\"",
         "The trap, sprung. Refuse and you both die tonight. Obey and you become the thing you swore to protect her from."
       ],
+      "videoUrl": "https://linkit-links.github.io/765236_43483_78_2732/dr/rp/captured_princess_elara/struggling_in_chain_standing.mkv",
       "next": "CH03_N3"
     },
     {
@@ -283,6 +286,7 @@
         "\"Begin,\" says Vance. You don't move. You can't. \"Begin,\" he says again, softer, and you hear the gallows in it for both of you. One soldier's hand shifts to his sword.",
         "If you fall here, you save her nothing — you only die and leave her to Vance forever. You draw your arm back, and bring the lash down."
       ],
+      "videoUrl": "https://linkit-links.github.io/765236_43483_78_2732/dr/rp/captured_princess_elara/he_whipping_her_1.mkv",
       "next": "CH03_N6"
     },
     {
@@ -292,7 +296,6 @@
         "It strikes across her and the sound fills the little room. Elara's head snaps back — the shock on her face worse than the pain, the look of someone watching the one safe thing in her world turn on her.",
         "Then the tears come — not from the lash, she's borne worse from Vance without a sound, but from *you*. And Vance, watching her finally weep where he never could, lets out a low, satisfied breath. \"There. *That's* what I wanted to see. Again.\""
       ],
-      "imageUrl": "https://linkit-links.github.io/765236_43483_78_2732/dr/rp/captured_princess_elara/elara_whipping.webp",
       "next": "CH03_N7"
     },
     {
@@ -302,6 +305,7 @@
         "\"Again,\" he repeats, delighted. \"And don't spare the arm. I'm watching.\"",
         "You hold her gaze the whole time, putting everything you cannot say into your eyes: *Forgive me. He'll kill us both.* And you watch the moment she understands — the betrayal receding, and recognition taking its place. She sees the soldier's hand on the sword. She has lived her whole life inside traps exactly like this."
       ],
+      "videoUrl": "https://linkit-links.github.io/765236_43483_78_2732/dr/rp/captured_princess_elara/he_whipping_her_2.mkv",
       "next": "CH03_N8"
     },
     {
@@ -309,6 +313,7 @@
       "lines": [
         "Through her tears she gives the smallest nod. Permission. Mercy. \"It's alright,\" she mouths, too quiet for Vance. \"I know it's not you. Make it look real, so he never doubts you again. Just — don't look away from me while you do it. Don't leave me alone in this room.\""
       ],
+      "videoUrl": "https://linkit-links.github.io/765236_43483_78_2732/dr/rp/captured_princess_elara/he_whipping_her_3.mkv",
       "next": "CH03_N9"
     },
     {
@@ -336,7 +341,7 @@
         "You could refuse, for about as long as it takes a sword to clear its sheath — and then you'd be dead, and she'd be left to Vance with no one who ever meant her well.",
         "So you do the unforgivable thing. You lower your eyes from hers for the first time all night, and walk to the door. \"Wait,\" she says, small, disbelieving. \"You *promised* —\" You pull the door shut on the sound of her voice, turn the lock, and place the key into Vance's waiting palm."
       ],
-      "imageUrl": "https://linkit-links.github.io/765236_43483_78_2732/dr/rp/captured_princess_elara/elara_key_surrendered.webp",
+      "videoUrl": "https://linkit-links.github.io/765236_43483_78_2732/dr/rp/captured_princess_elara/struggling_in_chain_standing.mkv",
       "next": "CH03_N12"
     },
     {
@@ -355,7 +360,7 @@
       "chapterTitle": "The Traitor's Mark",
       "speaker": "narrator",
       "lines": [
-        "You don't sleep — you sit on the cold step outside her locked door all night, listening to the small sounds she makes hanging in the dark, hating Vance, hating the king, and most of all the thing in your own breast that keeps you obedient.",
+        "You don't sleep — you sit on the cold step outside her locked door all night, listening to the small sounds she makes hanging in the dark, hating Vance, hating the king, and most of all the thing in your own chest that keeps you obedient.",
         "At first light, Vance comes down, rested and freshly shaved, and drops the key back into your palm. \"You'll want this. Today is a long day, and the prisoner is more cooperative when the hands on her belong to someone she trusted. Bring her to the lower room.\""
       ],
       "next": "CH04_N2"
@@ -385,6 +390,7 @@
         "\"There is no location I will give you,\" she says, voice raw. \"Not to him. Not ever.\"",
         "Vance sighs and nods at the black water. \"Put her under, soldier. Until I say.\" Your hands won't move — then you think of the reason you can never say aloud, and they move anyway."
       ],
+      "videoUrl": "https://linkit-links.github.io/765236_43483_78_2732/dr/rp/captured_princess_elara/her_head_drowing.mkv",
       "next": "CH04_N5"
     },
     {
@@ -394,7 +400,6 @@
         "You take a fistful of her hair and put her face into the freezing water. You feel her back arch, her bound hands claw at nothing, before you haul her up — she breaks the surface with a tearing gasp, coughing the well out of her lungs.",
         "\"Where is the spring?\" says Vance. \"Drown me,\" she chokes. \"It dies with me. That was always the plan.\""
       ],
-      "imageUrl": "https://linkit-links.github.io/765236_43483_78_2732/dr/rp/captured_princess_elara/elara_trough_1.webp",
       "next": "CH04_N6"
     },
     {
@@ -403,7 +408,6 @@
       "lines": [
         "So he has you do it again, and again — the same question into the dripping silence, the same answer, fainter each time. Somewhere in the fourth or fifth time, while Vance warms his hands at the brazier, she turns her streaming eyes up to yours — not pleading, just *looking.* A terrible, unspoken question: *Why are you the one doing this? What did they offer you? What did they take?*"
       ],
-      "imageUrl": "https://linkit-links.github.io/765236_43483_78_2732/dr/rp/captured_princess_elara/elara_trough_2.webp",
       "next": "CH04_N7"
     },
     {
@@ -421,16 +425,17 @@
         "You have no answer you're allowed to give — the truth would doom someone you love as surely as a blade. So you say nothing, and watch the last of her hope in you go out.",
         "Vance, disappointed by the water's failure, rises. \"Enough of the well. It leaves no mark to remember the lesson by, and our princess needs something permanent — something she'll carry to the gallows.\" He draws an iron rod from the coals; the tip brightens from sullen red to a hissing white."
       ],
+      "imageUrl": "https://linkit-links.github.io/765236_43483_78_2732/dr/rp/captured_princess_elara/elara_branding_1.webp",
       "next": "CH04_N9"
     },
     {
       "id": "CH04_N9",
       "speaker": "narrator",
       "lines": [
-        "\"The traitor's mark,\" he says, almost fondly, touching his own breast below the collarbone. \"Where no collar can hide it. So that when she hangs, every soul in the yard will know exactly what she is.\"",
+        "\"The traitor's mark,\" he says, almost fondly, touching his own chest below the collarbone. \"Where no collar can hide it. So that when she hangs, every soul in the yard will know exactly what she is.\"",
         "He turns to the soldiers. \"Fix her so she can't pull away.\" They drag Elara back against the stone pillar and lash her to it — shoulders, waist, wrists wrenched behind the column — until she cannot move an inch. She stares at the glowing iron and starts to tremble, small helpless tremors she cannot hide."
       ],
-      "imageUrl": "https://linkit-links.github.io/765236_43483_78_2732/dr/rp/captured_princess_elara/elara_branding_1.webp",
+      "videoUrl": "https://linkit-links.github.io/765236_43483_78_2732/dr/rp/captured_princess_elara/struggling_in_chain_standing.mkv",
       "next": "CH04_N9B"
     },
     {
@@ -1222,7 +1227,7 @@
       "speaker": "narrator",
       "lines": [
         "You uncurl your fist and look at the ribbon. *They know. Run.* Nineteen years old, dragged into the dark, and her last act was to warn her brother off.",
-        "You will not run. But you make her a promise anyway, the same one you made Elara on the wall: *I am coming. Both of you. I will tear this whole rotten keep down before I leave either of you in it.* Then you put the ribbon in your breast pocket, next to the half-made key that is suddenly worth nothing at all, and go to face the longest six days of your life.",
+        "You will not run. But you make her a promise anyway, the same one you made Elara on the wall: *I am coming. Both of you. I will tear this whole rotten keep down before I leave either of you in it.* Then you put the ribbon in your chest pocket, next to the half-made key that is suddenly worth nothing at all, and go to face the longest six days of your life.",
         "— End of Chapter 10 —"
       ],
       "next": "CH11_N1"
@@ -1549,7 +1554,7 @@
       "id": "CH13_N12",
       "speaker": "narrator",
       "lines": [
-        "He stood, and set the sole of his boot against her bared throat — slow, measured, easing down onto her windpipe while she lay pinned and could not turn her head. Her face went dark; you lunged half a step before a spear-haft caught you across the breast.",
+        "He stood, and set the sole of his boot against her bared throat — slow, measured, easing down onto her windpipe while she lay pinned and could not turn her head. Her face went dark; you lunged half a step before a spear-haft caught you across the chest.",
         "At the very edge, he lifted his boot, let her claw back one lungful, and asked gently: \"Where is the Everspring?\" She did not speak. Three times he took her to the edge of the dark and three times she gave him her silence instead of her air."
       ],
       "imageUrl": "https://linkit-links.github.io/765236_43483_78_2732/dr/rp/captured_princess_elara/elara_kings_boot.webp",
