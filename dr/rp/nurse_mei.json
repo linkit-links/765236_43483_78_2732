@@ -5,12 +5,6 @@
   "subtitle": "She's here to take good care of you…",
   "video": "gf_neutral",
   "start": "CH01_N1",
-  "vars": {
-    "friendly": 0,
-    "humor": 0,
-    "curiosity": 0,
-    "slowburn": 0
-  },
   "nodes": [
     {
       "id": "CH01_N1",
